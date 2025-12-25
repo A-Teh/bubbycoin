@@ -121,7 +121,7 @@ export default function FakeCoin() {
         {crashed && (
           <div className="crash-alert">
             <h3 className="text-2xl font-bold text-red-400 mb-2">Uh oh</h3>
-            <p>Looks like you got rugpulled 🤷‍♂️.  </p>
+            <p>Looks like you got rugpulled buddy 🤷‍♂️.  </p>
           </div>
         )}
 
