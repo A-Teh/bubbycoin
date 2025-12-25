@@ -4,7 +4,7 @@ import path from 'path'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/https://github.com/A-Teh/bubbycoin/",
+  base: "/bubbycoin/",
   resolve: {
     alias: {
       react: path.resolve(__dirname, './node_modules/react'),
